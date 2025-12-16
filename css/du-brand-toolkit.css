@@ -1,0 +1,110 @@
+/* From PL Drupal */
+
+body {
+    margin: 0 20px 0 20px;
+    background: #fefefe;
+    font-family: neue-haas-unica, sans-serif;
+    font-weight: normal;
+    line-height: 1.5;
+    color: #525252;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    font-size: 1rem;
+    padding: 0;
+}
+
+/* DU Branded Header */
+.du-header {
+  display:flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items:center;
+  padding: 10 20 0 10;
+}
+.du-header.du-header-white {
+  background-color:#fff; 
+}
+.du-header.du-header-black {
+  background-color:#000; 
+}
+.du-header img.du-logo {
+  width:100%;
+  max-width: 200px;
+  min-width:160px;
+  height:auto;
+  margin-right:10px;
+  display:block;
+}
+@media screen and (min-width:768px) {
+  .du-header img.du-logo {
+    max-width:240px;
+  }
+}
+.du-header img.du-search {
+  width:18px;
+  height:18px;
+  margin-left:10px;
+  display:block;
+}
+
+/* From PL Drupal */
+
+footer {
+    margin: 0 -20px 0 -20px;
+    padding-top: 2rem;
+}
+
+footer .copyright {
+    background-color: #000000;
+    text-align: center;
+    color: #797979;
+    font-size: .7rem;
+    padding: 1.5rem;
+    margin-bottom: 0;
+    margin: 0 -10px 0 0;
+}
+
+footer .bg-dark-gray {
+    background-color: #18171e;
+    padding: 1.7rem 0;
+}
+
+footer .menu {
+    flex-wrap: wrap;
+}
+
+.align-center {
+    justify-content: center;
+}
+
+footer .menu {
+    flex-wrap: wrap;
+    flex-direction: row;
+    list-style: none;
+    position: relative;
+    display: flex;
+}
+
+footer .menu li {
+    margin-left: 0;
+}
+
+footer .menu li a {
+    color: white;
+    font-size: .7rem;
+    font-weight: normal;
+    font-family: neue-haas-unica, sans-serif;
+    text-decoration: none;
+    padding: 1.3rem 1.8rem;
+}
+
+.screen-reader, .visually-hidden {
+    border: 0 !important;
+    clip: rect(0 0 0 0) !important;
+    height: 1px !important;
+    margin: -1px !important;
+    overflow: hidden !important;
+    padding: 0 !important;
+    position: absolute !important;
+    width: 1px !important;
+}
