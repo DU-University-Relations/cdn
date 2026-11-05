@@ -1,0 +1,4 @@
+#n h3,#n span a,#n span strong{float:left}
+div#n{position:relative;right:50%;float:right}
+div.co{position:relative;left:50%;float:left}
+#n span.sp{display:none}

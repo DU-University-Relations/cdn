@@ -1,0 +1,4 @@
+html{overflow-x:hidden;overflow-y:scroll}
+img.slidemaximage{width:2000px;height:770px}
+.slidemaximage{display:none}
+.loader{position:absolute;z-index:9999;width:39px;height:39px;top:49%;left:49%}

@@ -1,0 +1,30 @@
+body,.url,.a,#sy,#ss,#sw,a:link,.f,.f:link,.f a:link,a:visited,.f a:visited,a:active,.f a:active{background:#fff}
+body{color:#000}
+.a{color:#008000}
+#sy{color:#c00}
+#ss{color:#c00}
+#sw{color:gray}
+a:link{color:#00c}
+.f,.f:link,.f a:link{color:#77c}
+a:visited,.f a:visited{color:#551a8b}
+a:active,.f a:active{color:#f00}
+img,fieldset{border:0}
+#lg a,#lg span{float:left;text-indent:-9999px;overflow:hidden;background:url("images/Title_sm.gif") no-repeat;height:35px;width:85px}
+#su h2:after,#km h3:after{content:":"}
+#n .pp:after{content:", "}
+dd .s:after{content:" - "}
+#su,#om,#sr,#sf{clear:both}
+.sa,p.fm{margin:0}
+dd{margin-left:0;margin-bottom:1em}
+h1{margin:0}
+#su h2,#km h3,#km ul,#su p,.sn a,#co,fieldset{margin:0;padding:0}
+#sf,#sf h2,#sb h2,#re h3,.sn span,#ns span,#sk,.s2,.sn .as,#nd,#su .st,#so strong,#n h3,#n span,.sa span{display:none}
+#home #sf,#nt #so,#gs,#gs_f,dt,dd p.fm,#su h2,.sn a,.sa span.ac{display:block}
+#n .pp,#n .np,dd p{display:inline}
+.sn a{display:list-item}
+#su h2,#km h3{font-size:1em}
+#ns #so strong,dd strong,#su strong,dt .ft{font-weight:normal}
+dt .rn{font-weight:bold}
+.sn,#km ul{list-style:none}
+.sa label{text-transform:capitalize}
+#q, #q_f{width:10em}

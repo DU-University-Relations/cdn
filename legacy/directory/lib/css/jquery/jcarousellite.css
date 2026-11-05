@@ -1,0 +1,12 @@
+.newsSlider {left:-5000px; position:relative; visibility:hidden; height:300px;}
+.newsSlider ul {height:100px; width:600px;}
+.newsSlider ul li {padding:0 20px; margin:0; overflow:hidden;}
+*+html .newsSlider ul li {margin:5px 0;}
+.newsSlider ul li div.newsThumb {width:79px; height:49px; float:left;}
+.newsSlider ul li div.newsDesc {width:178px; height:49px; float:left; padding:10px;}
+.prev, .next {margin:0 0 0 20px; cursor:pointer;}
+.caption-top, .caption-bottom {background:#000000; color:#ffffff; cursor:default; padding:2px; font-size:11px; text-align:center;}
+.caption-top {border-width:0px;}
+.caption-bottom {border-width:0px;}
+.caption a, .caption a {background:#000; border:none; text-decoration:none; padding:2px;}
+.caption a:hover, .caption a:hover {background:#202020;}

@@ -1,0 +1,7 @@
+@import "/lib/css/global/nav.css";
+@import "/lib/css/global/content.css";
+@import "/lib/css/global/footer.css";
+body {background:#9c231e; color:#252525;}
+a, a:link, a:active, a:visited, a:hover {color:#A01400; text-decoration:none;}
+a:hover {text-decoration:underline;}
+#wrapper {position:relative; z-index:1;}

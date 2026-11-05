@@ -1,0 +1,13 @@
+body {margin:auto; color:#333; background:#fff; font-family:Helvetica, Arial, sans-serif;}
+a {color:#900000;}
+div {margin:0px; padding:0px;}
+p {margin:2px 0px 8px 0px;}
+h1 {margin:4px 0px 2px 0px; font-size:1.4em;}
+h2 {margin:8px 0px 1px 0px; font-size:1.2em;}
+
+#logo {padding:1px 4px; background:#333; border-top:#660000 4px solid;}
+#content {padding:2px;}
+#switch {padding:1px 4px; font-size:0.8em; color:#333; background:#e2d6bc; border-bottom:#FFF 1px solid;}
+#switch form {display:inline; margin:0; padding:0 0 0 8px;}
+#global_search-input {width:50px; margin-right:4px;}
+#footer {padding:1px 4px; font-size:0.8em; color:#fff; background:#333; border-bottom:#660000 4px solid;}

@@ -1,0 +1,9 @@
+body.form form {margin:10px 8px 10px 10px; padding:10px 0; background:#f4f2ed; border:1px solid #ccc;}
+body.form form ul, body.form form li {padding:0; margin:0 auto; width:55em; margin-bottom:.75em; list-style:none;}
+body.form form label {float:left; width:8em; margin-right:1em; text-align:right; font-size:12px;}
+body.form form textarea {width:30em; height:12em;}
+body.form form input {width:20em;}
+body.form form input.submit {width:auto; margin-left:8em;}
+body.form form li.checkbox input, body.form form li.checkbox label, body.form form li.radio input, body.form form li.radio label {float:none; width:auto; text-align:left;}
+body.form form li.radio input, body.form form li.checkbox input {margin-left:5em;}
+#webtechid {display:none;}

@@ -1,0 +1,9 @@
+html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,address,big,cite,code,del,dfn,em,font,img,ins,kbd,q,s,samp,small,strike,sub,sup,tt,var,dl,dt,dd,ol,ul,li,form,label,legend,fieldset,table,caption,tbody,tfoot,thead,tr,th,td{margin:0;padding:0;border:0;outline:0;font-weight:inherit;font-style:inherit;font-size:1em;font-family:"Trebuchet MS",Arial,Helvetica,sans-serif;vertical-align:baseline}
+.clear{clear:both; height:1px;}
+h1,h2,h3,h4,h5,h6{font-weight:bold}
+ol{margin-left:25px}
+ul{margin-left:15px}
+table{border-collapse:separate;border-spacing:0}
+caption,th,td{text-align:left}
+.bold, strong{font-weight:bold}
+.italic{font-style:italic}

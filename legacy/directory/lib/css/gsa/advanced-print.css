@@ -1,0 +1,8 @@
+fieldset{border:0 solid transparent}
+.first{background:#fff}
+.value,.name,.param,.pair{float:none;width:auto}
+dt label{margin-left:0}
+dd{margin-left:20px}
+.pair .name,.pair .value{display:inline;width:auto}
+.gs,#lg a,#lg span{display:none}
+#lg:before{content:url("images/Title_Left.gif")}

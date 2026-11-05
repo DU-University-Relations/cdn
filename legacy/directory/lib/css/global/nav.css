@@ -1,0 +1,31 @@
+#headerContainer {clear:both; position:relative; width:100%; text-align:center; background:#fff; z-index:1;}
+#headerContainer h1{float:left; width:219px; padding:10px 15px 0;}
+.header {width:1006px; margin:0 auto;}
+.primaryNav {float:left; width:548px; margin:20px 0 0 20px; background:#ffffff;}
+.primaryNav ul {height:42px; width:530px; margin:17px 0 0 0; padding:0;}
+.primaryNav ul li {float:left; margin:0; height:42px; list-style:none;}
+.primaryNav ul li a {display:block; position:relative; height:42px;}
+.primaryNav ul li.nav_01 {width:118px; background:url("/lib/images/global/nav/primary_nav01.gif") no-repeat; background-position:0 0;}
+.primaryNav ul li.nav_01:hover {background-position:0 -42px;}
+.prospective .primaryNav ul li.nav_01 {background-position:0 -84px;}
+.primaryNav ul li.nav_01 a {width:118px;}
+.primaryNav ul li.nav_02 {width:108px; background:url("/lib/images/global/nav/primary_nav02.gif") no-repeat; background-position:0 0;}
+.primaryNav ul li.nav_02:hover {background-position:0 -42px;}
+.current .primaryNav ul li.nav_02 {background-position:0 -84px;}
+.primaryNav ul li.nav_02 a {width:108px;}
+.primaryNav ul li.nav_03 {width:90px; background:url("/lib/images/global/nav/primary_nav03.gif") no-repeat; background-position:0 0;}
+.primaryNav ul li.nav_03:hover {background-position:0 -42px;}
+.faculty .primaryNav ul li.nav_03 {background-position:0 -84px;}
+.primaryNav ul li.nav_03 a {width:90px;}
+.primaryNav ul li.nav_04 {width:98px; background:url("/lib/images/global/nav/primary_nav04.gif") no-repeat; background-position:0 0;}
+.primaryNav ul li.nav_04:hover {background-position:0 -42px;}
+.alumni .primaryNav ul li.nav_04 {background-position:0 -84px;}
+.primaryNav ul li.nav_04 a {width:98px;}
+.primaryNav ul li.nav_05 {width:116px; background:url("/lib/images/global/nav/primary_nav05.gif") no-repeat; background-position:0 0;}
+.primaryNav ul li.nav_05:hover {background-position:0 -42px;}
+.parents .primaryNav ul li.nav_05 {background-position:0 -84px;}
+.primaryNav ul li.nav_05 a {width:116px;}
+.searchContainer {float:right; width:189px; margin:25px 0 0 0; font-size:.75em; text-align:left;}
+.searchContainer ul {margin:5px 0 0 0; color:#999999;}
+.searchContainer ul li {display:inline; list-style:none;}
+.searchContainer .btnSearch {position:relative; top:3px;}

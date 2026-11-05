@@ -1,0 +1,20 @@
+#mainContent .col {float:left; display:inline; width:229px; padding-right:10px; padding-top:10px;}
+#mainContent .last {padding-right:0;}
+#mainContent input {width:215px;}
+#mainContent #submit {width:200px; margin-left:10px;}
+#mainContent select {width:220px;}
+#mainContent label {font-weight:bold;}
+#mainContent dl dt {line-height:normal;}
+#mainContent dl.expand {border-top:#000 1px solid; border-bottom:#000 1px solid; width:99.9%;}
+#mainContent .expand dt {width:89.5%; padding:3.5% 0 3.5% 10.5%; background:url("/lib/images/global/btns/btn_expand_plus.gif") no-repeat 5% 1.2em;}
+#mainContent .expand dd {width:84%; padding:0 5.5% 3.5% 10.5%;}
+#mainContent .expand dt a {width:90%; display:block; line-height:18px; font-weight:bold;}
+#mainContent .expand dt.minus {background-image:url("/lib/images/global/btns/btn_expand_minus.gif"); background-repeat:no-repeat;}
+#mainContent .expand .odd, #mainContent .odd.minus {background-color:#f0f0f0;}
+#mainContent .expand .even, #mainContent .even.minus {background-color:#fff;}
+#mainContent .plus, #mainContent .minus {background-position:0 3px;}
+#mainContent dl.call dt {font-weight:bold; margin:10px 0 5px 0;}
+#mainContent dl.call dd {padding:0 0 0 12px; margin:0 0 15px 0; line-height:1.5em;}
+/*#mainContent em {line-height:18px;}
+#mainContent .col ul {list-style:none; padding:0; margin:0;}*/
+#mainContent .col ul li {margin:0 0 10px 0;}
